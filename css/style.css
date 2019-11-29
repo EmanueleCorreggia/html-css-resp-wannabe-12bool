@@ -13,3 +13,8 @@ img {
 .container_grey {
   background-color: #f9f9f9;
 }
+.icon {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px;
+}
