@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+.container-title {
+  margin-top: 100px;
+}
+img {
+  height: 200px;
+}
+.padding {
+  padding: 25px;
+}
+.container_grey {
+  background-color: #f9f9f9;
+}
